@@ -3,7 +3,7 @@
   "version": "0.0.10",
   "description": "A powerful vue directive make element sticky.",
   "main": "vue-sticky-directive.js",
-  "module": "./src/index.js",
+  "module": "vue-sticky-directive.js",
   "browser": "vue-sticky-directive.js",
   "typings": "./index.d.ts",
   "directories": {
